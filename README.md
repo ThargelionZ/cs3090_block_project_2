@@ -1,0 +1,5 @@
+
+### Repository Purpose
+
+This repository was created to house the code for the AI Compliance project. The idea behind this project is to develop a piece of software that will enforce good ethical content and require sources for all data that is provided for a generative AI model. This includes holding big companies accountable for any copyright or patent violations. Too long have we ignored the fact that these big companies are stealing data from others on the internet without anyone knowing. With this software, we will be able to fight back against these companies, and recognize individuals, whose hard work has been stolen for use by these models. All these people need to be recognized, at the very least, and potentially even receive royalties for the information that these AI models are making so readily available. Please join me in my fight to make these generative AI models what they should be, ethical, honest, and credible! This is an open-source project that anyone can contribute to as long as you make your code available! Thanks for participating!
+
